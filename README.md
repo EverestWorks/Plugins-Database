@@ -1,2 +1,2 @@
 # Plugins-Database
-Work In progress
+User created plugins for EverTerms
